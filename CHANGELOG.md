@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- update dependencies to latest versions
-- Updated: 2026-04-14T11:59:43.499Z
+- add environment variable support
+- Updated: 2026-04-14T13:00:00.659Z

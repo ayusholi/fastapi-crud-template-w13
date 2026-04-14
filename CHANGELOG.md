@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- generate API reference documentation
-- Build: 2026-03-24T13:00:00.951Z
+- update dependencies to latest versions
+- Updated: 2026-04-14T11:59:43.499Z

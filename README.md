@@ -1,6 +1,6 @@
 # fastapi-crud-template-w13
 
-> Last updated: 2026-03-24
+> Last updated: 2026-04-14
 
 ## About
 

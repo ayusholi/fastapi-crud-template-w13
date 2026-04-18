@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- implement token-based authentication
-- Build: 2026-04-14T13:00:00.659Z
+- handle empty response gracefully
+- Updated: 2026-04-18T13:00:01.672Z

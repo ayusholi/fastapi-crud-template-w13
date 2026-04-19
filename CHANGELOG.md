@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- update CI workflow triggers
-- Build: 2026-04-18T13:00:01.672Z
+- generate API reference documentation
+- Updated: 2026-04-19T13:00:01.745Z

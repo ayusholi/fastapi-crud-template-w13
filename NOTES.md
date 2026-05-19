@@ -1,7 +1,7 @@
 # Notes
 
-Session: 2026-04-19T13:00:01.745Z
+Last updated: 2026-05-19T21:15:52.372Z
 
-## Summary
+## Progress
 
-- add integration tests for API endpoints
+- add setup and installation guide

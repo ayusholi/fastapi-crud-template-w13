@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- simplify conditional logic
-- Build: 2026-04-19T13:00:01.745Z
+- add contributing guidelines
+- Updated: 2026-05-19T21:15:52.372Z

@@ -1,7 +1,7 @@
 # Notes
 
-Last updated: 2026-05-19T21:15:52.372Z
+Last updated: 2026-05-22T13:00:01.249Z
 
 ## Progress
 
-- add setup and installation guide
+- extract helper functions to utils
